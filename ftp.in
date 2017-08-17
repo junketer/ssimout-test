@@ -1,0 +1,7 @@
+open uk01dv11ap
+ntpuser1
+nu12aqua
+bin
+prompt
+put ./target/ssimout-test-0.0.1-SNAPSHOT.jar /oaglocal/dev/SSIMOUT/ssimout-test-0.0.1-SNAPSHOT.jar
+bye
